@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **prathamchide2001@gmail.com**
 
-- 📄 Know about my experiences [azure-emmye-61.tiiny.site](azure-emmye-61.tiiny.site)
+- 📄 Know about my experiences [Check Ouy My CV](https://drive.google.com/file/d/1rTM3qbLY3JMRPb-P7gaD9BB6wf5pv5SN/view?usp=sharing))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
