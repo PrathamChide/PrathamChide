@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **SpringBoot, Django, ReactJS, NextJS**
 
-- 👯 I’m currently working on the [Disney Plus Clone](https://disney-clone-1314e.web.app/)
+- 👯 I’m currently working on the [Obys Agency Clone](https://prathamchide.github.io/obysagency.github.io/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/PrathamChide](https://github.com/PrathamChide)
 
