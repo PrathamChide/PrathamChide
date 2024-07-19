@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **prathamchide2001@gmail.com**
 
-- 📄 Know about my experiences [Checkout my CV](https://drive.google.com/file/d/1rTM3qbLY3JMRPb-P7gaD9BB6wf5pv5SN/view)
+- 📄 Know about my experiences [Checkout my CV]([https://drive.google.com/file/d/1rTM3qbLY3JMRPb-P7gaD9BB6wf5pv5SN/view](https://drive.google.com/file/d/1KFR0tJZhDrkehY-2cjFYk5gz4_fmhkWh/view?usp=sharing))
 
 - ⚡ Fun fact **I think I am a coding enthusiast**
 
